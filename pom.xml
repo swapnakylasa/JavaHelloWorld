@@ -39,7 +39,7 @@
 <distributionManagement>
    <snapshotRepository>
       <id>nexus-snapshots</id>
-      <name>Snapshot Releases</name>
+      <name>Snapshot Release</name>
       <url>http://54.167.122.132:8081/nexus/content/repositories/snapshots</url>
    </snapshotRepository>
 </distributionManagement>
