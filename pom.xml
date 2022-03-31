@@ -40,7 +40,7 @@
    <snapshotRepository>
       <id>nexus-snapshots</id>
       <name>Snapshot Release</name>
-      <url>http://54.167.122.132:8081/nexus/content/repositories/snapshots</url>
+      <url>http://54.167.122.132:8081/repository/maven-snapshots/</url>
    </snapshotRepository>
 </distributionManagement>
 </project>
