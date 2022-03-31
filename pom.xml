@@ -37,10 +37,14 @@
   </build>
   
 <distributionManagement>
+    <repository>
+        <id>releases</id>
+        <url>http://54.167.122.132:8081/repository/maven-snapshots</url>
+    </repository>
    <snapshotRepository>
       <id>nexus-snapshots</id>
       <name>maven-snapshots</name>
-      <url>http://54.167.122.132:8081/repository/maven-snapshots/</url>
+      <url>http://54.167.122.132:8081/repository/maven-snapshots</url>
    </snapshotRepository>
 </distributionManagement>
 </project>
